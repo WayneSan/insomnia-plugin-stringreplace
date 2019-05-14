@@ -1,0 +1,21 @@
+{
+  "name": "insomnia-plugin-stringreplace",
+  "description": "Replace a string by a pattern or Regular Expression inside the Insomnia REST client",
+  "version": "1.0.0",
+  "main": "replace.js",
+  "insomnia": {
+    "name": "replace",
+    "description": "Replace a string by a pattern or Regular Expression"
+  },
+  "repository": "https://github.com/WayneSan/insomnia-plugin-stringreplace",
+  "dependencies": [],
+  "devDependencies": [],
+  "keywords": [
+    "insomnia",
+    "plugin",
+    "plugins",
+    "string",
+    "replace",
+    "generator"
+  ]
+}
